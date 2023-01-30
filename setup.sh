@@ -1,4 +1,4 @@
-sudo dnf install xorg-x11-server-Xorg xorg-x11-xinit network-manager-applet xorg-x11-drv-libinput mesa-dri-drivers xfce4-panel xfce4-datetime-plugin xfce4-session xfce4-settings xfce4-terminal xfconf xfdesktop xfce4-appfinder xfce4-power-manager xfce4-pulseaudio-plugin pipewire pipewire-pulseaudio gvfs lightdm-gtk xfwm4 xdg-user-dirs materia-gtk-theme papirus-icon-theme git curl
+sudo dnf install xorg-x11-server-Xorg xorg-x11-xinit network-manager-applet xorg-x11-drv-libinput mesa-dri-drivers xfce4-panel xfce4-datetime-plugin xfce4-session xfce4-settings xfce4-terminal xfconf xfdesktop xfce4-appfinder xfce4-power-manager xfce4-pulseaudio-plugin pipewire pipewire-pulseaudio gvfs lightdm-gtk xfwm4 xdg-user-dirs git curl
 
 sudo dnf install dnf-plugins-core
 
