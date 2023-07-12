@@ -2,9 +2,6 @@
 #  ╦ ╦╦╔╦╗╔═╗  ╔╗ ╔═╗╦═╗
 #  ╠═╣║ ║║║╣   ╠╩╗╠═╣╠╦╝
 #  ╩ ╩╩═╩╝╚═╝  ╚═╝╩ ╩╩╚═
-#	Simple script to hide/show polybar
-#   Author: z0mbi3
-#	url: https://github.com/gh0stzk
 
 function hide() {
 	

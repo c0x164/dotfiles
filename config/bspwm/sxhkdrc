@@ -1,8 +1,6 @@
-#  ╔═╗═╗ ╦╦ ╦╦╔═╔╦╗╦═╗╔═╗  - z0mbi3
-#  ╚═╗╔╩╦╝╠═╣╠╩╗ ║║╠╦╝║    - https://github.com/gh0stzk/dotfiles
-#  ╚═╝╩ ╚═╩ ╩╩ ╩═╩╝╩╚═╚═╝  - z0mbi3.zk@protonmail.com
-#			z0mbi3 config..
-
+#  ╔═╗═╗ ╦╦ ╦╦╔═╔╦╗╦═╗╔═╗  
+#  ╚═╗╔╩╦╝╠═╣╠╩╗ ║║╠╦╝║    
+#  ╚═╝╩ ╚═╩ ╩╩ ╩═╩╝╩╚═╚═╝ 
 # Show keybindings help
 alt + F1
 	KeybindingsHelp
@@ -19,10 +17,6 @@ super + alt + Return
 super + @space
 	OpenApps --menu
 
-# Theme Selector
-alt + @space
-	RiceSelector
-
 
 # Power off, Reboot, Log out, Lockscreen, kill an app
 ctrl + super + alt + {p,r,q,l,k}
@@ -30,7 +24,7 @@ ctrl + super + alt + {p,r,q,l,k}
 
 # Apps
 super + {b,n,p,t}
-	{brave-beta, \
+	{firefox, \
 	 thunar, \
 	 pavucontrol, \
 	 telegram-desktop, \}
@@ -45,7 +39,7 @@ ctrl + alt {plus,minus,t}
 
 # Screenshot Now
 Print
-	flameshot
+	flameshot gui
 
 # Reload sxhkd
 super + Escape

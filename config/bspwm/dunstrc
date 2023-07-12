@@ -1,6 +1,6 @@
-#  ╔╦╗╦ ╦╔╗╔╔═╗╔╦╗  ╔═╗╔═╗╔╗╔╔═╗╦╔═╗	- Dunst config file for the rices
-#   ║║║ ║║║║╚═╗ ║   ║  ║ ║║║║╠╣ ║║ ╦	- https://github.com/gh0stzk/dotfiles
-#  ═╩╝╚═╝╝╚╝╚═╝ ╩   ╚═╝╚═╝╝╚╝╚  ╩╚═╝	- z0mbi3
+#  ╔╦╗╦ ╦╔╗╔╔═╗╔╦╗  ╔═╗╔═╗╔╗╔╔═╗╦╔═╗
+#   ║║║ ║║║║╚═╗ ║   ║  ║ ║║║║╠╣ ║║ ╦
+#  ═╩╝╚═╝╝╚╝╚═╝ ╩   ╚═╝╚═╝╝╚╝╚  ╩╚═╝
 
 [global]
 title = Dunst
@@ -55,14 +55,14 @@ mouse_right_click = close_all
 [urgency_low]
 timeout = 3
 background = "#14171c"
-foreground = "#b8bfe5"
+foreground = "#44475a"
 
 [urgency_normal]
 timeout = 6
 background = "#14171c"
-foreground = "#b8bfe5"
+foreground = "#44475a"
 
 [urgency_critical]
 timeout = 0
 background = "#14171c"
-foreground = "#b8bfe5"
+foreground = "#44475a"

@@ -1,19 +1,12 @@
-// # Modification by 	-  z0mbi3
-// # Source 			-  https://github.com/gh0stzk/dotfiles
-// # Maintainer 		-  z0mbi3.zk@protonmail.com
 
-/** Original Work
- * Author : Aditya Shakya (adi1090x)
- * Github : https://github.com/adi1090x/rofi
- **/
 
 configuration {
 	modi: 						"drun";
-	icon-theme: 				"Papirus-Dark";
+	icon-theme: 				"Dracula";
 	application-fallback-icon: 	"Adwaita";
     show-icons:                 true;
 	drun-display-format:        "{name}";
-	disable-history:            true;
+	disable-history:            false;
 	sidebar-mode: 				false;
 	
 	hover-select:				true;
@@ -24,10 +17,10 @@ configuration {
 /*****----- Global Properties -----*****/
 * {
     font:                        "TerminessTTF Nerd Font Mono Bold 10";
-    background:                  #14171c;
-    background-alt:              #14171cE0;
-    foreground:                  #b8bfe5;
-    selected:                    #7560d3;
+    background:                  #282a36;
+    background-alt:              #282a36E0;
+    foreground:                  #f8f8f2;
+    selected:                    #6272a4;
 }
 
 /*****----- Main Window -----*****/
