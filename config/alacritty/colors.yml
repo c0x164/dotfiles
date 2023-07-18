@@ -1,18 +1,18 @@
 # Colors (Onedark) Isabel Rice
 colors:
   primary:
-    background: '#14171c'
-    foreground: '#b8bfe5'
+    background: '#eff1f5'
+    foreground: '#4c4f69'
 
   normal:
     black:   '#5c6370'
-    red:     '#be5046'
-    green:   '#81ae5f'
-    yellow:  '#d19a66'
-    blue:    '#4889be'
-    magenta: '#7560d3'
-    cyan:    '#49919a'
-    white:   '#c5cddb'
+    red:     '#d20f39'
+    green:   '#40a02b'
+    yellow:  '#df8e1d'
+    blue:    '#1e66f5'
+    magenta: '#8839ef'
+    cyan:    '#209fb5'
+    white:   '#eff1f5'
 
   bright:
     black:   '#5c6370'
@@ -25,5 +25,5 @@ colors:
     white:   '#abb2bf'
 
   cursor:
-    cursor: '#abb2bf'
-    text:	'#14171c'
+    cursor: '#4c4f69'
+    text:	'#4c4f69'
