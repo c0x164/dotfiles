@@ -1,4 +1,12 @@
 echo "Hello"
-sudo dnf install bspwm sxhkd polybar cava neofetch dunst flameshot git firefox python3-envycontrol wget pamixer sddm rofi alacritty mpd picom
 
-exec dbus-launch --exit-with-session bspwm
+yay -S pamixer papirus-icon-theme 
+
+git clone https://github.com/catppuccin/papirus-folders.git
+cd papirus-folders
+
+sudo cp -r src/* /usr/share/icons/Papirus  
+
+./papirus-folders -C cat-latte-teal --theme ePapirus
+
+sudo reboot
