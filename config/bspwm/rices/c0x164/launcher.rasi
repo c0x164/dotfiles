@@ -17,10 +17,10 @@ configuration {
 /*****----- Global Properties -----*****/
 * {
     font:                        "TerminessTTF Nerd Font Mono Bold 10";
-    background:                  #eff1f5;
-    background-alt:              #eff1f5E0;
-    foreground:                  #4c4f69;
-    selected:                    #bcc0cc;
+    background:                  #0F0F0F;
+    background-alt:              #0F0F0FE0;
+    foreground:                  #cacaca;
+    selected:                    #A5B4CB;
 }
 
 /*****----- Main Window -----*****/

@@ -3,8 +3,8 @@ set_bspwm_config() {
 		bspc config border_width 0
 		bspc config top_padding 42
 		bspc config bottom_padding 2
-		bspc config normal_border_color "#44475a"
-		bspc config active_border_color "#44475a"
+		bspc config normal_border_color "#cacaca"
+		bspc config active_border_color "#cacaca"
 		bspc config focused_border_color "#6272a4"
 		bspc config presel_feedback_color "#6272a4"
 		bspc config left_padding 2
@@ -22,21 +22,21 @@ set_term_config() {
 				# Colors (Onedark) Isabel Rice
 				colors:
 				  primary:
-				    background: '#eff1f5'
-				    foreground: '#4c4f69'
+				    background: '#0F0F0F'
+				    foreground: '#cacaca'
 
 				  normal:
-				    black:   '#5c6370'
+				    black:   '#AC8A8C'
 				    red:     '#d20f39'
-				    green:   '#40a02b'
-				    yellow:  '#df8e1d'
-				    blue:    '#1e66f5'
-				    magenta: '#8839ef'
-				    cyan:    '#209fb5'
-				    white:   '#eff1f5'
+				    green:   '#9EC49F'
+				    yellow:  '#C4C19E'
+				    blue:    '#8A98AC'
+				    magenta: '#AC8AAC'
+				    cyan:    '#8AACAB'
+				    white:   '#cacaca'
 
 				  bright:
-				    black:   '#5c6370'
+				    black:   '#AC8A8C'
 				    red:     '#e06c75'
 				    green:   '#98c379'
 				    yellow:  '#e5c07b'
@@ -68,7 +68,7 @@ set_picom_config() {
 set_dunst_config() {
 		sed -i "$HOME"/.config/bspwm/dunstrc \
 		-e "s/transparency = .*/transparency = 0/g" \
-		-e "s/frame_color = .*/frame_color = \"#14171c\"/g" \
+		-e "s/frame_color = .*/frame_color = \"#0F0F0F\"/g" \
 		-e "s/separator_color = .*/separator_color = \"#abb2bf\"/g" \
 		-e "s/font = .*/font = JetBrainsMono Nerd Font Medium 9/g" \
 		-e "s/foreground='.*'/foreground='#7560d3'/g"
@@ -77,18 +77,18 @@ set_dunst_config() {
 		cat >> "$HOME"/.config/bspwm/dunstrc <<- _EOF_
 				[urgency_low]
 				timeout = 3
-				background = "#14171c"
-				foreground = "#44475a"
+				background = "#0F0F0F"
+				foreground = "#cacaca"
 
 				[urgency_normal]
 				timeout = 6
-				background = "#14171c"
-				foreground = "#44475a"
+				background = "#0F0F0F"
+				foreground = "#cacaca"
 
 				[urgency_critical]
 				timeout = 0
-				background = "#14171c"
-				foreground = "#44475a"
+				background = "#0F0F0F"
+				foreground = "#cacaca"
 _EOF_
 }
 
