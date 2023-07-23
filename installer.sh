@@ -1,12 +1,23 @@
 echo "Hello"
 
-yay -S pamixer papirus-icon-theme 
+yay -S pamixer thorium-browser-bin telegram-desktop-bin stacer-bin archlinux-tweak-tool-git blueman
 
-git clone https://github.com/catppuccin/papirus-folders.git
-cd papirus-folders
+sudo systemctl enable bluetooth
 
-sudo cp -r src/* /usr/share/icons/Papirus  
+mkdir -p /home/c0x164/.config
 
-./papirus-folders -C cat-latte-teal --theme ePapirus
+mkdir -p /home/c0x164/.themes
 
-sudo reboot
+mkdir -p /home/c0x164/.icons
+
+mkdir -p /home/c0x164/.fonts
+
+cp -r config/* /home/c0x164/.config/
+
+cp -r fonts/* /home/c0x164/.fonts/
+
+cp -r themes/* /home/c0x164/.themes/
+
+cp -r icons/* /home/c0x164/.icons/
+
+echo "installed"
