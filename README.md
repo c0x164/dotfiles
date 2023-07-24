@@ -1,4 +1,4 @@
-# dotfiles
+# Arch Dotfiles
 
 <h1> Screenshots </h1>
 
