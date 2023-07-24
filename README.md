@@ -2,6 +2,6 @@
 
 <h1> Screenshots </h1>
 
-<img src="screenshots/2023-07-25_00-48.png" alt="first" width="104" height="142">
+![first](https://github.com/c0x164/dotfiles/blob/main/screenshots/2023-07-25_00-47.png)
 
-<img src="screenshots/2023-07-25_00-47.png" alt="second" width="104" height="142">
+![second](https://github.com/c0x164/dotfiles/blob/main/screenshots/2023-07-25_00-48.png)
