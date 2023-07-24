@@ -1,8 +1,8 @@
 echo "Hello"
 
-yay -S pamixer thorium-browser-bin telegram-desktop-bin stacer-bin archlinux-tweak-tool-git blueman
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 
-sudo systemctl enable bluetooth
+yay -S pamixer thorium-browser-bin telegram-desktop-bin stacer-bin gnome-tweak-tool blueman picom-ftlabs-git flameshot dunst thunar-volman gvfs thunar neofetch
 
 mkdir -p /home/c0x164/.config
 

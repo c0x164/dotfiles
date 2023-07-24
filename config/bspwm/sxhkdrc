@@ -24,7 +24,7 @@ ctrl + super + alt + {p,r,q,l,k}
 
 # Apps
 super + {b,n,p,t}
-	{chromium,, \
+	{thorium-browser, \
 	 thunar, \
 	 pavucontrol, \
 	 telegram-desktop, \}
