@@ -4,7 +4,7 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
 
 cd ..
 
-yay -S pamixer thorium-browser-bin telegram-desktop-bin stacer-bin gnome-tweak-tool blueman picom-ftlabs-git flameshot thunar-volman gvfs thunar neofetch nvidia envycontrol polybar feh dunst rofi alacritty iwd lxappearance xarchiver noto-fonts nvidia-settings envycontrol prismlauncher-qt5-bin
+yay -S pamixer thorium-browser-bin telegram-desktop-bin stacer-bin blueman picom-ftlabs-git flameshot thunar-volman gvfs thunar neofetch nvidia polybar feh dunst rofi alacritty iwd lxappearance xarchiver noto-fonts nvidia-settings envycontrol prismlauncher-qt5-bin spotify
 
 mkdir -p /home/c0x164/.config
 
