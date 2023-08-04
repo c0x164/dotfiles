@@ -1,0 +1,4 @@
+2023-08-04 02:43:15.300 [info] update#ctor - updates are disabled as there is no update URL
+2023-08-04 02:43:23.597 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-04 02:43:25.251 [info] Extension host with pid 11761 exited with code: 0, signal: unknown.
+2023-08-04 03:02:51.699 [info] Extension host with pid 11866 exited with code: 0, signal: unknown.

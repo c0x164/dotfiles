@@ -1,0 +1,6 @@
+[Added Associations]
+application/x-shellscript=code-oss.desktop;
+application/x-zerosize=code-oss.desktop;
+
+[Default Applications]
+application/x-zerosize=code-oss.desktop

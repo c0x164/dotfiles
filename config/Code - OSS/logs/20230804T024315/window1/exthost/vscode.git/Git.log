@@ -1,0 +1,119 @@
+2023-08-04 02:43:17.874 [info] Log level: Info
+2023-08-04 02:43:17.874 [info] Validating found git in: "git"
+2023-08-04 02:43:17.874 [info] Using git "2.41.0" from "git"
+2023-08-04 02:43:30.490 [info] Log level: Info
+2023-08-04 02:43:30.490 [info] Validating found git in: "git"
+2023-08-04 02:43:30.490 [info] Using git "2.41.0" from "git"
+2023-08-04 02:43:30.516 [info] > git rev-parse --show-toplevel [32ms]
+2023-08-04 02:43:30.553 [info] > git rev-parse --git-dir --git-common-dir [24ms]
+2023-08-04 02:43:30.566 [info] Open repository: /home/c0x164/Projects/israaskim.github.io
+2023-08-04 02:43:30.589 [info] > git config --get commit.template [8ms]
+2023-08-04 02:43:30.601 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-08-04 02:43:30.615 [info] > git status -z -uall [3ms]
+2023-08-04 02:43:30.635 [info] > git config --get commit.template [2ms]
+2023-08-04 02:43:30.646 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-08-04 02:43:30.657 [info] > git status -z -uall [2ms]
+2023-08-04 02:43:31.127 [info] > git check-ignore -v -z --stdin [3ms]
+2023-08-04 02:46:48.279 [info] > git show --textconv :index.html [17ms]
+2023-08-04 02:46:48.282 [info] > git ls-files --stage -- /home/c0x164/Projects/israaskim.github.io/index.html [4ms]
+2023-08-04 02:46:48.458 [info] > git check-ignore -v -z --stdin [3ms]
+2023-08-04 02:46:48.994 [info] > git config --get commit.template [12ms]
+2023-08-04 02:46:49.018 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-08-04 02:46:49.034 [info] > git status -z -uall [3ms]
+2023-08-04 02:47:20.718 [info] > git config --get commit.template [3ms]
+2023-08-04 02:47:20.735 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-08-04 02:47:20.750 [info] > git status -z -uall [2ms]
+2023-08-04 02:47:32.105 [info] > git add -A -- . [3ms]
+2023-08-04 02:47:32.122 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [2ms]
+2023-08-04 02:47:32.122 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-08-04 02:47:32.138 [info] > git config --get-all user.name [2ms]
+2023-08-04 02:47:32.153 [info] > git config --get commit.template [1ms]
+2023-08-04 02:47:32.172 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-08-04 02:47:32.196 [info] > git status -z -uall [3ms]
+2023-08-04 02:47:33.243 [info] > git config --get commit.template [15ms]
+2023-08-04 02:47:33.244 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-08-04 02:47:33.261 [info] > git status -z -uall [2ms]
+2023-08-04 02:47:33.325 [info] > git ls-files --stage -- /home/c0x164/Projects/israaskim.github.io/index.html [2ms]
+2023-08-04 02:47:33.341 [info] > git cat-file -s 2f4116a4e3e9849ec2c8aa897c227e1b3619788a [6ms]
+2023-08-04 02:47:33.359 [info] > git show --textconv :index.html [3ms]
+2023-08-04 02:47:46.314 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [3ms]
+2023-08-04 02:47:46.315 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-08-04 02:47:46.336 [info] > git config --get-all user.name [2ms]
+2023-08-04 02:47:46.365 [info] > git config --get commit.template [2ms]
+2023-08-04 02:47:46.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-08-04 02:47:46.443 [info] > git status -z -uall [5ms]
+2023-08-04 02:48:12.703 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [4ms]
+2023-08-04 02:48:12.703 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-08-04 02:48:12.716 [info] > git config --get-all user.name [2ms]
+2023-08-04 02:48:12.740 [info] > git config --get commit.template [12ms]
+2023-08-04 02:48:12.742 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-08-04 02:48:12.755 [info] > git status -z -uall [2ms]
+2023-08-04 02:52:09.801 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [7ms]
+2023-08-04 02:52:09.816 [info] > git config --get commit.template [2ms]
+2023-08-04 02:52:09.854 [info] > git config --get commit.template [16ms]
+2023-08-04 02:52:09.855 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-08-04 02:52:09.872 [info] > git status -z -uall [4ms]
+2023-08-04 02:52:11.052 [info] > git ls-files --stage -- /home/c0x164/Projects/israaskim.github.io/index.html [1ms]
+2023-08-04 02:52:11.063 [info] > git cat-file -s 2f4116a4e3e9849ec2c8aa897c227e1b3619788a [2ms]
+2023-08-04 02:52:11.077 [info] > git show --textconv :index.html [2ms]
+2023-08-04 02:52:18.938 [info] > git push origin main:main [9026ms]
+2023-08-04 02:52:18.938 [info] To https://github.com/c0x164/israaskim.github.io.git
+   ec1c521..4f4f868  main -> main
+2023-08-04 02:52:18.965 [info] > git config --get commit.template [12ms]
+2023-08-04 02:52:18.966 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-08-04 02:52:18.978 [info] > git status -z -uall [2ms]
+2023-08-04 02:52:19.103 [info] > git config --get commit.template [15ms]
+2023-08-04 02:52:19.117 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-08-04 02:52:19.131 [info] > git status -z -uall [1ms]
+2023-08-04 02:52:20.209 [info] > git ls-files --stage -- /home/c0x164/Projects/israaskim.github.io/index.html [3ms]
+2023-08-04 02:52:20.222 [info] > git cat-file -s 2f4116a4e3e9849ec2c8aa897c227e1b3619788a [1ms]
+2023-08-04 02:52:20.239 [info] > git show --textconv :index.html [2ms]
+2023-08-04 02:52:25.295 [info] > git fetch [1199ms]
+2023-08-04 02:52:25.295 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/c0x164/israaskim.github.io.git/'
+2023-08-04 02:52:25.311 [info] > git ls-files --stage -- /home/c0x164/Projects/israaskim.github.io/index.html [17ms]
+2023-08-04 02:52:25.326 [info] > git config --get commit.template [16ms]
+2023-08-04 02:52:25.327 [info] > git cat-file -s 2f4116a4e3e9849ec2c8aa897c227e1b3619788a [2ms]
+2023-08-04 02:52:25.360 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2023-08-04 02:52:25.376 [info] > git show --textconv :index.html [18ms]
+2023-08-04 02:52:25.378 [info] > git status -z -uall [2ms]

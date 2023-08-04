@@ -1,0 +1,6 @@
+2023/08/04-03:00:38.309 47f Creating DB /home/c0x164/.config/thorium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb since it was missing.
+2023/08/04-03:00:38.313 47f Reusing MANIFEST /home/c0x164/.config/thorium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2023/08/04-03:01:38.129 480 Level-0 table #5: started
+2023/08/04-03:01:38.131 480 Level-0 table #5: 1200 bytes OK
+2023/08/04-03:01:38.132 480 Delete type=0 #3
+2023/08/04-03:01:38.132 480 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

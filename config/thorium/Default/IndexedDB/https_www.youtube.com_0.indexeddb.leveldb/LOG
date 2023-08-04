@@ -1,0 +1,7 @@
+2023/08/04-14:54:44.041 33c Reusing MANIFEST /home/c0x164/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/04-14:54:44.041 33c Recovering log #27
+2023/08/04-14:54:44.047 33c Reusing old log /home/c0x164/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000027.log 
+2023/08/04-14:54:44.047 33c Delete type=2 #26
+2023/08/04-15:04:40.219 33d Level-0 table #32: started
+2023/08/04-15:04:40.230 33d Level-0 table #32: 1526576 bytes OK
+2023/08/04-15:04:40.232 33d Delete type=0 #27

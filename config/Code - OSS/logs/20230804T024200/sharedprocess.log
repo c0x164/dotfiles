@@ -1,0 +1,77 @@
+2023-08-04 02:42:18.398 [info] Getting Manifest... sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:18.576 [info] Installing extension: sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:18.860 [info] Getting Manifest... vivaxy.vscode-conventional-commits
+2023-08-04 02:42:19.330 [info] Getting Manifest... mhutchie.git-graph
+2023-08-04 02:42:19.595 [info] Getting Manifest... donjayamanne.githistory
+2023-08-04 02:42:19.884 [info] Getting Manifest... codezombiech.gitignore
+2023-08-04 02:42:20.139 [info] Getting Manifest... adam-bender.commit-message-editor
+2023-08-04 02:42:20.811 [info] Getting Manifest... eamodio.gitlens
+2023-08-04 02:42:22.044 [info] Getting Manifest... waderyan.gitblame
+2023-08-04 02:42:22.485 [info] Getting Manifest... github.github-vscode-theme
+2023-08-04 02:42:22.889 [info] Installing extension: vivaxy.vscode-conventional-commits sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:22.889 [info] Installing extension: mhutchie.git-graph sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:22.890 [info] Installing extension: donjayamanne.githistory sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:22.890 [info] Installing extension: codezombiech.gitignore sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:22.890 [info] Installing extension: adam-bender.commit-message-editor sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:22.891 [info] Installing extension: eamodio.gitlens sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:22.891 [info] Installing extension: waderyan.gitblame sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:22.892 [info] Installing extension: github.github-vscode-theme sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:24.201 [info] Extension signature verification is not done: vivaxy.vscode-conventional-commits
+2023-08-04 02:42:24.277 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.54c9951a-5868-40ca-aa27-d0061f67935e: vivaxy.vscode-conventional-commits
+2023-08-04 02:42:24.284 [info] Renamed to /home/c0x164/.vscode-oss/extensions/vivaxy.vscode-conventional-commits-1.25.0-universal
+2023-08-04 02:42:24.289 [info] Extracting extension completed. vivaxy.vscode-conventional-commits
+2023-08-04 02:42:24.477 [info] Extension signature verification is not done: codezombiech.gitignore
+2023-08-04 02:42:24.493 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.a94b8742-bb01-4abc-a1d5-0015cdc40ef4: codezombiech.gitignore
+2023-08-04 02:42:24.497 [info] Renamed to /home/c0x164/.vscode-oss/extensions/codezombiech.gitignore-0.9.0-universal
+2023-08-04 02:42:24.499 [info] Extracting extension completed. codezombiech.gitignore
+2023-08-04 02:42:24.615 [info] Extension signature verification is not done: github.github-vscode-theme
+2023-08-04 02:42:24.649 [info] Extension signature verification is not done: mhutchie.git-graph
+2023-08-04 02:42:24.650 [info] Extension signature verification is not done: waderyan.gitblame
+2023-08-04 02:42:24.670 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.d8561105-3bd9-4ef0-8596-665c0ffb84bb: github.github-vscode-theme
+2023-08-04 02:42:24.678 [info] Renamed to /home/c0x164/.vscode-oss/extensions/github.github-vscode-theme-6.3.4-universal
+2023-08-04 02:42:24.683 [info] Extracting extension completed. github.github-vscode-theme
+2023-08-04 02:42:24.685 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.196b3eff-dc4b-4e8b-9c2e-7d231c40ba1c: waderyan.gitblame
+2023-08-04 02:42:24.692 [info] Renamed to /home/c0x164/.vscode-oss/extensions/waderyan.gitblame-10.3.0-universal
+2023-08-04 02:42:24.697 [info] Extracting extension completed. waderyan.gitblame
+2023-08-04 02:42:24.774 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.698ecacd-0e6c-465d-8430-c7d03e666e7b: mhutchie.git-graph
+2023-08-04 02:42:24.780 [info] Renamed to /home/c0x164/.vscode-oss/extensions/mhutchie.git-graph-1.30.0-universal
+2023-08-04 02:42:24.783 [info] Extracting extension completed. mhutchie.git-graph
+2023-08-04 02:42:24.827 [info] Extension signature verification is not done: adam-bender.commit-message-editor
+2023-08-04 02:42:24.854 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.721c76a5-693e-47c1-8edb-9dda5b95e607: adam-bender.commit-message-editor
+2023-08-04 02:42:24.859 [info] Renamed to /home/c0x164/.vscode-oss/extensions/adam-bender.commit-message-editor-0.25.0-universal
+2023-08-04 02:42:24.861 [info] Extracting extension completed. adam-bender.commit-message-editor
+2023-08-04 02:42:24.984 [info] Extension signature verification is not done: donjayamanne.githistory
+2023-08-04 02:42:25.079 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.a5ce1645-f53a-4b5c-b44e-5aa78e10c1b4: donjayamanne.githistory
+2023-08-04 02:42:25.084 [info] Renamed to /home/c0x164/.vscode-oss/extensions/donjayamanne.githistory-0.6.20-universal
+2023-08-04 02:42:25.086 [info] Extracting extension completed. donjayamanne.githistory
+2023-08-04 02:42:26.707 [info] Getting Manifest... paragdiwan.gitpatch
+2023-08-04 02:42:27.056 [info] Installing extension: paragdiwan.gitpatch
+2023-08-04 02:42:28.357 [info] Extension signature verification is not done: eamodio.gitlens
+2023-08-04 02:42:28.746 [info] Getting Manifest... phil294.git-log--graph
+2023-08-04 02:42:28.893 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.51cc7b63-e00b-4e06-bb1d-c50d03b3a86a: eamodio.gitlens
+2023-08-04 02:42:28.908 [info] Renamed to /home/c0x164/.vscode-oss/extensions/eamodio.gitlens-14.0.1-universal
+2023-08-04 02:42:28.916 [info] Extracting extension completed. eamodio.gitlens
+2023-08-04 02:42:29.003 [info] Installing extension: phil294.git-log--graph
+2023-08-04 02:42:30.371 [info] Extension signature verification is not done: sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:30.386 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.52d9c4da-76d5-4042-85a5-a7fd7ac1b0a2: sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:30.391 [info] Renamed to /home/c0x164/.vscode-oss/extensions/sugatoray.vscode-git-extension-pack-1.1.1-universal
+2023-08-04 02:42:30.393 [info] Extracting extension completed. sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:30.410 [info] Extension installed successfully: vivaxy.vscode-conventional-commits
+2023-08-04 02:42:30.411 [info] Extension installed successfully: codezombiech.gitignore
+2023-08-04 02:42:30.411 [info] Extension installed successfully: github.github-vscode-theme
+2023-08-04 02:42:30.411 [info] Extension installed successfully: waderyan.gitblame
+2023-08-04 02:42:30.411 [info] Extension installed successfully: mhutchie.git-graph
+2023-08-04 02:42:30.411 [info] Extension installed successfully: adam-bender.commit-message-editor
+2023-08-04 02:42:30.412 [info] Extension installed successfully: donjayamanne.githistory
+2023-08-04 02:42:30.412 [info] Extension installed successfully: eamodio.gitlens
+2023-08-04 02:42:30.412 [info] Extension installed successfully: sugatoray.vscode-git-extension-pack
+2023-08-04 02:42:31.314 [info] Extension signature verification is not done: phil294.git-log--graph
+2023-08-04 02:42:31.429 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.382d0022-8210-4b7b-83e2-0dc32151ef7b: phil294.git-log--graph
+2023-08-04 02:42:31.434 [info] Renamed to /home/c0x164/.vscode-oss/extensions/phil294.git-log--graph-0.1.12-universal
+2023-08-04 02:42:31.437 [info] Extracting extension completed. phil294.git-log--graph
+2023-08-04 02:42:31.452 [info] Extension installed successfully: phil294.git-log--graph
+2023-08-04 02:42:36.368 [info] Extension signature verification is not done: paragdiwan.gitpatch
+2023-08-04 02:42:36.720 [info] Extracted extension to /home/c0x164/.vscode-oss/extensions/.0e03c166-d5ee-4e7c-b6e1-2d66ba19c307: paragdiwan.gitpatch
+2023-08-04 02:42:36.729 [info] Renamed to /home/c0x164/.vscode-oss/extensions/paragdiwan.gitpatch-0.2.1-universal
+2023-08-04 02:42:36.731 [info] Extracting extension completed. paragdiwan.gitpatch
+2023-08-04 02:42:36.743 [info] Extension installed successfully: paragdiwan.gitpatch
