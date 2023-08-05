@@ -1,2 +1,3 @@
-2023/08/04-01:42:33.357 47f Creating DB /home/c0x164/.config/thorium/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
-2023/08/04-01:42:33.360 47f Reusing MANIFEST /home/c0x164/.config/thorium/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/08/05-18:43:21.011 38d Reusing MANIFEST /home/c0x164/.config/thorium/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/08/05-18:43:21.011 38d Recovering log #3
+2023/08/05-18:43:21.011 38d Reusing old log /home/c0x164/.config/thorium/Default/Managed Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000003.log 

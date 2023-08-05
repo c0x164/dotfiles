@@ -1,0 +1,34 @@
+2023/08/04-19:16:39.628 388 Creating DB /home/c0x164/.config/thorium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/08/04-19:16:39.631 388 Reusing MANIFEST /home/c0x164/.config/thorium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/04-19:16:39.649 388 Level-0 table #5: started
+2023/08/04-19:16:39.650 388 Level-0 table #5: 7366 bytes OK
+2023/08/04-19:16:39.652 388 Delete type=0 #3
+2023/08/04-19:16:39.652 388 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/04-19:16:40.155 394 Level-0 table #7: started
+2023/08/04-19:16:40.157 394 Level-0 table #7: 14421 bytes OK
+2023/08/04-19:16:40.158 394 Delete type=0 #4
+2023/08/04-19:16:40.158 388 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/04-19:17:01.996 389 Level-0 table #9: started
+2023/08/04-19:17:02.039 389 Level-0 table #9: 1122154 bytes OK
+2023/08/04-19:17:02.040 389 Delete type=0 #6
+2023/08/04-19:17:02.847 394 Compacting 1@0 + 1@1 files
+2023/08/04-19:17:02.869 394 Generated table #10@0: 27389 keys, 727624 bytes
+2023/08/04-19:17:02.869 394 Compacted 1@0 + 1@1 files => 727624 bytes
+2023/08/04-19:17:02.870 394 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/04-19:17:02.870 394 Delete type=2 #7
+2023/08/04-19:17:02.870 394 Delete type=2 #9
+2023/08/04-19:17:11.932 394 Level-0 table #12: started
+2023/08/04-19:17:11.977 394 Level-0 table #12: 1148056 bytes OK
+2023/08/04-19:17:11.979 394 Delete type=0 #8
+2023/08/04-19:17:12.973 394 Compacting 1@0 + 1@1 files
+2023/08/04-19:17:13.062 394 Generated table #13@0: 46995 keys, 1501327 bytes
+2023/08/04-19:17:13.062 394 Compacted 1@0 + 1@1 files => 1501327 bytes
+2023/08/04-19:17:13.063 394 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/04-19:17:13.063 394 Delete type=2 #10
+2023/08/04-19:17:13.063 394 Delete type=2 #12
+2023/08/04-19:18:12.120 389 Compacting 1@1 + 1@2 files
+2023/08/04-19:18:12.149 389 Generated table #14@1: 19515 keys, 1276049 bytes
+2023/08/04-19:18:12.149 389 Compacted 1@1 + 1@2 files => 1276049 bytes
+2023/08/04-19:18:12.150 389 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/04-19:18:12.150 389 Delete type=2 #5
+2023/08/04-19:18:12.150 389 Delete type=2 #13

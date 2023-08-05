@@ -1,3 +1,3 @@
-2023/08/04-02:53:35.717 47f Reusing MANIFEST /home/c0x164/.config/thorium/Default/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2023/08/04-02:53:35.717 47f Recovering log #4
-2023/08/04-02:53:35.717 47f Reusing old log /home/c0x164/.config/thorium/Default/WebStorage/3/IndexedDB/indexeddb.leveldb/000004.log 
+2023/08/05-01:14:44.279 4ce Reusing MANIFEST /home/c0x164/.config/thorium/Default/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2023/08/05-01:14:44.279 4ce Recovering log #4
+2023/08/05-01:14:44.283 4ce Reusing old log /home/c0x164/.config/thorium/Default/WebStorage/3/IndexedDB/indexeddb.leveldb/000004.log 

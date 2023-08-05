@@ -5,28 +5,29 @@
             "file:///home/c0x164/Projects/israaskim.github.io": "__default__profile__",
             "file:///home/c0x164/dotfiles": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1691182143083": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "466abf53b5c8f4cf7e47ef057b2a5afd21f896272042d4ac0858166c537b7b9c",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
+        "folders": [],
+        "emptyWindows": [
             {
-                "folderUri": "file:///home/c0x164/dotfiles"
+                "backupFolder": "1691182143083"
             }
-        ],
-        "emptyWindows": []
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/c0x164/dotfiles",
-            "backupPath": "/home/c0x164/.config/Code - OSS/Backups/84e0135099c11b6e319a47f37094ab09",
+            "backupPath": "/home/c0x164/.config/Code - OSS/Backups/1691182143083",
             "uiState": {
                 "mode": 1,
-                "x": 8,
+                "x": 982,
                 "y": 48,
-                "width": 1904,
+                "width": 930,
                 "height": 1024
             }
         },
@@ -105,6 +106,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/c0x164/.config/bspwm/bspwmrc",
+                                        "path": "/home/c0x164/.config/bspwm/bspwmrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/bspwm/bspwmrc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/c0x164/.config/bspwm/rices/c0x164/modules.ini",
                                         "path": "/home/c0x164/.config/bspwm/rices/c0x164/modules.ini",
                                         "scheme": "file"
@@ -116,23 +128,23 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/c0x164/.config/bspwm/rices/c0x164/Theme.sh",
-                                        "path": "/home/c0x164/.config/bspwm/rices/c0x164/Theme.sh",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/bspwm/rices/c0x164/Theme.sh"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/c0x164/.config/bspwm/rices/c0x164/config.ini",
                                         "path": "/home/c0x164/.config/bspwm/rices/c0x164/config.ini",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.config/bspwm/rices/c0x164/config.ini"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/c0x164/.config/bspwm/rices/c0x164/Theme.sh",
+                                        "path": "/home/c0x164/.config/bspwm/rices/c0x164/Theme.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/bspwm/rices/c0x164/Theme.sh"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -188,17 +200,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/bspwm/.rice"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/c0x164/.config/bspwm/bspwmrc",
-                                        "path": "/home/c0x164/.config/bspwm/bspwmrc",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/bspwm/bspwmrc"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -267,13 +268,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -399,10 +393,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -598,8 +588,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -738,6 +727,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -826,8 +822,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
@@ -839,8 +834,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -849,8 +843,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1352,11 +1345,6 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
-            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1513,9 +1501,8 @@
                 "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G G",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+g g"
+                "label": "Ctrl+Shift+G",
+                "userSettingsLabel": "ctrl+shift+g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1725,7 +1712,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 232,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }

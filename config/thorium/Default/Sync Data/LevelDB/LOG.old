@@ -1,2 +1,3 @@
-2023/08/04-01:42:29.930 4a4 Creating DB /home/c0x164/.config/thorium/Default/Sync Data/LevelDB since it was missing.
-2023/08/04-01:42:29.935 4a4 Reusing MANIFEST /home/c0x164/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/05-18:43:18.804 3a6 Reusing MANIFEST /home/c0x164/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/05-18:43:18.804 3a6 Recovering log #3
+2023/08/05-18:43:18.805 3a6 Reusing old log /home/c0x164/.config/thorium/Default/Sync Data/LevelDB/000003.log 

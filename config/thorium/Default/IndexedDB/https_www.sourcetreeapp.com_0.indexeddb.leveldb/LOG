@@ -1,0 +1,6 @@
+2023/08/05-23:32:16.380 372 Creating DB /home/c0x164/.config/thorium/Default/IndexedDB/https_www.sourcetreeapp.com_0.indexeddb.leveldb since it was missing.
+2023/08/05-23:32:16.383 372 Reusing MANIFEST /home/c0x164/.config/thorium/Default/IndexedDB/https_www.sourcetreeapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/05-23:32:24.740 372 Level-0 table #5: started
+2023/08/05-23:32:24.742 372 Level-0 table #5: 21383 bytes OK
+2023/08/05-23:32:24.744 372 Delete type=0 #3
+2023/08/05-23:32:24.744 372 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

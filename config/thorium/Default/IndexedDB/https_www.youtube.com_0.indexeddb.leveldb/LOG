@@ -1,7 +1,12 @@
-2023/08/04-14:54:44.041 33c Reusing MANIFEST /home/c0x164/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/04-14:54:44.041 33c Recovering log #27
-2023/08/04-14:54:44.047 33c Reusing old log /home/c0x164/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000027.log 
-2023/08/04-14:54:44.047 33c Delete type=2 #26
-2023/08/04-15:04:40.219 33d Level-0 table #32: started
-2023/08/04-15:04:40.230 33d Level-0 table #32: 1526576 bytes OK
-2023/08/04-15:04:40.232 33d Delete type=0 #27
+2023/08/05-18:43:29.331 38f Reusing MANIFEST /home/c0x164/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/05-18:43:29.332 38f Recovering log #60
+2023/08/05-18:43:29.339 38f Reusing old log /home/c0x164/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000060.log 
+2023/08/05-18:55:08.668 373 Level-0 table #65: started
+2023/08/05-18:55:08.676 373 Level-0 table #65: 1199199 bytes OK
+2023/08/05-18:55:08.677 373 Delete type=0 #60
+2023/08/05-19:05:57.107 373 Compacting 1@1 + 1@2 files
+2023/08/05-19:05:57.112 373 Generated table #66@1: 434 keys, 53542 bytes
+2023/08/05-19:05:57.112 373 Compacted 1@1 + 1@2 files => 53542 bytes
+2023/08/05-19:05:57.113 373 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/05-19:05:57.114 373 Delete type=2 #62
+2023/08/05-19:05:57.114 373 Delete type=2 #65

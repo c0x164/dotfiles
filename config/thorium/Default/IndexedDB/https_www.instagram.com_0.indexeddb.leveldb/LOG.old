@@ -1,0 +1,6 @@
+2023/08/05-00:05:10.502 4ce Creating DB /home/c0x164/.config/thorium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2023/08/05-00:05:10.510 4ce Reusing MANIFEST /home/c0x164/.config/thorium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/05-00:06:06.707 4cf Level-0 table #5: started
+2023/08/05-00:06:06.712 4cf Level-0 table #5: 308291 bytes OK
+2023/08/05-00:06:06.714 4cf Delete type=0 #3
+2023/08/05-00:06:06.715 4cf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

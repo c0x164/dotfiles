@@ -1,6 +1,0 @@
-[2023-08-03 23:47:44.022] /home/c0x164/.vscode-oss/extensions/eamodio.gitlens-14.0.1-universal/dist/gitlens.js:1:296098
-Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:index.html
-fatal: There is no path index.html in the commit
-
-[2023-08-03 23:47:58.488] getLocalWorkspaceData
-EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/c0x164/.gitkraken/workspaces/workspaces.json'

@@ -4,3 +4,4 @@ application/x-zerosize=code-oss.desktop;
 
 [Default Applications]
 application/x-zerosize=code-oss.desktop
+x-scheme-handler/mailto=thorium-browser.desktop

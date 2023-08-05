@@ -1,7 +1,0 @@
-extension activate
-set selected repo index 0
-workspace: repo(s) added/removed
-start observing repo /home/c0x164/Projects/israaskim.github.io
-repo watcher: external index/head change
-repo watcher: external index/head change
-extension deactivate

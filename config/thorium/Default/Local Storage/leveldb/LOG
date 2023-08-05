@@ -1,9 +1,6 @@
-2023/08/04-14:49:17.058 3 Reusing MANIFEST /home/c0x164/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/04-14:49:17.059 3 Recovering log #26
-2023/08/04-14:49:17.060 3 Reusing old log /home/c0x164/.config/thorium/Default/Local Storage/leveldb/000026.log 
-2023/08/04-14:51:19.172 5 Level-0 table #30: started
-2023/08/04-14:51:19.188 5 Level-0 table #30: 42675 bytes OK
-2023/08/04-14:51:19.191 5 Delete type=0 #26
-2023/08/04-14:56:16.275 5 Level-0 table #32: started
-2023/08/04-14:56:16.279 5 Level-0 table #32: 44835 bytes OK
-2023/08/04-14:56:16.281 5 Delete type=0 #29
+2023/08/05-23:36:06.649 3 Reusing MANIFEST /home/c0x164/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/05-23:36:06.650 3 Recovering log #82
+2023/08/05-23:36:06.650 3 Reusing old log /home/c0x164/.config/thorium/Default/Local Storage/leveldb/000082.log 
+2023/08/05-23:46:57.161 3 Level-0 table #87: started
+2023/08/05-23:46:57.176 3 Level-0 table #87: 24102 bytes OK
+2023/08/05-23:46:57.179 3 Delete type=0 #82

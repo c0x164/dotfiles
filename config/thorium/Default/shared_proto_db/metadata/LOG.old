@@ -1,2 +1,3 @@
-2023/08/04-01:42:30.013 480 Creating DB /home/c0x164/.config/thorium/Default/shared_proto_db/metadata since it was missing.
-2023/08/04-01:42:30.017 480 Reusing MANIFEST /home/c0x164/.config/thorium/Default/shared_proto_db/metadata/MANIFEST-000001
+2023/08/05-18:43:18.955 373 Reusing MANIFEST /home/c0x164/.config/thorium/Default/shared_proto_db/metadata/MANIFEST-000001
+2023/08/05-18:43:18.956 373 Recovering log #3
+2023/08/05-18:43:18.956 373 Reusing old log /home/c0x164/.config/thorium/Default/shared_proto_db/metadata/000003.log 
