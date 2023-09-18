@@ -23,11 +23,12 @@ ctrl + super + alt + {p,r,q,l,k}
 	{systemctl poweroff, systemctl reboot,bspc quit,physlock -d,xkill}
 
 # Apps
-super + {b,n,p,t}
+super + {b,n,p,t,h}
 	{thorium-browser, \
 	 thunar, \
 	 pavucontrol, \
-	 telegram-desktop, \}
+	 telegram-desktop, \
+      	 notion-app, \ }
 
 # Hide/Show Bar (Polybar and/or eww)
 super + {h,u}

@@ -1,10 +1,10 @@
 echo "Hello"
 
-sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+yay -S pamixer thorium-browser-bin telegram-desktop-bin stacer-bin blueman picom-ftlabs-git flameshot thunar-volman gvfs thunar neofetch nvidia polybar feh dunst rofi kitty iwd xarchiver noto-fonts nvidia-settings envycontrol brightnessctl zsh 
 
-cd ..
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-yay -S pamixer thorium-browser-bin telegram-desktop-bin stacer-bin blueman picom-ftlabs-git flameshot thunar-volman gvfs thunar neofetch nvidia polybar feh dunst rofi kitty iwd lxappearance xarchiver noto-fonts nvidia-settings envycontrol prismlauncher-qt5-bin spotify brightnessctl
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 
 mkdir -p /home/c0x164/.config
 
@@ -13,6 +13,8 @@ mkdir -p /home/c0x164/.themes
 mkdir -p /home/c0x164/.icons
 
 mkdir -p /home/c0x164/.fonts
+
+cp -r .zshrc /home/c0x164/
 
 cp -r config/* /home/c0x164/.config/
 
