@@ -1,6 +1,6 @@
 echo "Hello"
 
-yay -S pamixer thorium-browser-bin telegram-desktop-bin stacer-bin blueman picom-ftlabs-git flameshot thunar-volman gvfs thunar neofetch nvidia polybar feh dunst rofi kitty iwd xarchiver noto-fonts nvidia-settings envycontrol brightnessctl zsh 
+yay -S pamixer  telegram-desktop-bin stacer-bin blueman picom-ftlabs-git flameshot thunar-volman gvfs thunar neofetch nvidia polybar feh dunst rofi kitty iwd xarchiver noto-fonts nvidia-settings envycontrol brightnessctl zsh 
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
